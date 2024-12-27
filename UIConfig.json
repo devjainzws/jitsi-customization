@@ -1,32 +1,31 @@
 {
-  "inviteDomain": "https://meet.example.com",
-  "backgroundColor": "#fff",
-  "backgroundImageUrl": "https://pixabay.com/get/g6a30845e339ad71d04ee845f8d0dacf3db0235249f9d0f7a154a67e5eb2a213d48064b065055b3e80dfe065dac59631f_1280.jpg",
-  "logoClickUrl": "https://pixabay.com/get/gca4ac3214cc52ee3b2a5884ce37754e0a281c599f4d832f16471ab866df1c39daecb87231fc003fee927350d3f94fec8_1280.jpg",
-  "logoImageUrl": "https://pixabay.com/get/gca4ac3214cc52ee3b2a5884ce37754e0a281c599f4d832f16471ab866df1c39daecb87231fc003fee927350d3f94fec8_1280.jpg",
-  "defaultLanguage": "zhTW",
-  "didPageUrl": "https://pixabay.com/get/g01fbdf27349d9e45a0decc323c8fe8819168278de2ee47fac3423731108ac1f764d88e2e5139de2558d36f1d8e2d121f_1280.jpg",
-  "avatarBackgrounds": [
+  "inviteDomain":"https://meet.example.com",
+  "backgroundColor":"#fff",
+  "backgroundImageUrl":"https://pixabay.com/get/g6a30845e339ad71d04ee845f8d0dacf3db0235249f9d0f7a154a67e5eb2a213d48064b065055b3e80dfe065dac59631f_1280.jpg",
+  "logoClickUrl":"https://pixabay.com/get/gca4ac3214cc52ee3b2a5884ce37754e0a281c599f4d832f16471ab866df1c39daecb87231fc003fee927350d3f94fec8_1280.jpg",
+  "logoImageUrl":"https://pixabay.com/get/gca4ac3214cc52ee3b2a5884ce37754e0a281c599f4d832f16471ab866df1c39daecb87231fc003fee927350d3f94fec8_1280.jpg",
+  "didPageUrl":"https://pixabay.com/get/g01fbdf27349d9e45a0decc323c8fe8819168278de2ee47fac3423731108ac1f764d88e2e5139de2558d36f1d8e2d121f_1280.jpg",
+  "avatarBackgrounds":[
     "https://pixabay.com/get/gf15941c3e6add229d3c6765eff40937b24c0285369cf3d281ae93a3bce84acce094f8a9af112d4006eee70b31ec43e53_1280.jpg",
     "https://pixabay.com/get/g261e021a2c87c8bb0fcde29a3e49274325e88cfea27c2fc674c63c1a3933fe27e9feaf69a6149757f26d46d93722e50a_1280.png",
     "https://pixabay.com/get/g2b3a0e784eec1268b580db796540ce7dd363262ae678ae6fff52dc8450566b8f5011049eb3f4041b368ebcc4c95c745d_1280.png"
   ],
-  "premeetingBackground": "url('https://example.com/images/premeeting-bg.png') no-repeat center center / cover",
-  "virtualBackgrounds": [
+  "premeetingBackground":"url('https://example.com/images/premeeting-bg.png') no-repeat center center / cover",
+  "virtualBackgrounds":[
     {
       "id": "beach",
       "url": "https://pixabay.com/get/gf3c52b8af59e8c22e4e50c33642afeefd0badf19d06a7b6701ba8560540b6b89c149f00acca2680e29688e3c0b1af3f1_1280.png",
       "thumbnail": "https://pixabay.com/get/gf3c52b8af59e8c22e4e50c33642afeefd0badf19d06a7b6701ba8560540b6b89c149f00acca2680e29688e3c0b1af3f1_1280.png"
     },
     {
-      "id": "office",
-      "url": "https://example.com/images/virtual-bg-office.png",
-      "thumbnail": "https://example.com/images/virtual-bg-office-thumb.png"
+      "id":"office",
+      "url":"https://example.com/images/virtual-bg-office.png",
+      "thumbnail":"https://example.com/images/virtual-bg-office-thumb.png"
     }
   ],
   "customIcons": {
-    "microphone": "https://th.bing.com/th/id/OIP.wOKOWnL1Q2m8tqn8lx094gHaIc?rs=1&pid=ImgDetMain",
-    "camera": "https://static.vecteezy.com/system/resources/previews/009/463/227/original/camera-icon-isolated-free-vector.jpg",
-    "chat": "https://example.com/icons/chat.svg"
+    "microphone":"https://th.bing.com/th/id/OIP.wOKOWnL1Q2m8tqn8lx094gHaIc?rs=1&pid=ImgDetMain",
+    "camera":"https://static.vecteezy.com/system/resources/previews/009/463/227/original/camera-icon-isolated-free-vector.jpg",
+    "chat":"https://example.com/icons/chat.svg"
   }
 }
