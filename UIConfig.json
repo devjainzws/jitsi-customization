@@ -1,14 +1,11 @@
 {
-  "inviteDomain":"test.example.com",
-  "backgroundColor":"#fff",
-  "backgroundImageUrl":"https://pixabay.com/get/g6a30845e339ad71d04ee845f8d0dacf3db0235249f9d0f7a154a67e5eb2a213d48064b065055b3e80dfe065dac59631f_1280.jpg",
-  "logoClickUrl":"https://www.bloquelabs.com",
-  "logoImageUrl":"https://pixabay.com/get/g42c71f0e4eb239c1d644f74e3e1e54303364ca8690bdf8563c8601f52bf96a698b9b115a49718d52c3fd293edf4380e4_1280.jpg",
-  "defaultLanguage":"zhTW"
-  "didPageUrl": "https://pixabay.com/get/g01fbdf27349d9e45a0decc323c8fe8819168278de2ee47fac3423731108ac1f764d88e2e5139de2558d36f1d8e2d121f_1280.jpg",
   "inviteDomain": "https://meet.example.com",
+  "backgroundColor": "#fff",
+  "backgroundImageUrl": "https://pixabay.com/get/g6a30845e339ad71d04ee845f8d0dacf3db0235249f9d0f7a154a67e5eb2a213d48064b065055b3e80dfe065dac59631f_1280.jpg",
   "logoClickUrl": "https://pixabay.com/get/gca4ac3214cc52ee3b2a5884ce37754e0a281c599f4d832f16471ab866df1c39daecb87231fc003fee927350d3f94fec8_1280.jpg",
   "logoImageUrl": "https://pixabay.com/get/gca4ac3214cc52ee3b2a5884ce37754e0a281c599f4d832f16471ab866df1c39daecb87231fc003fee927350d3f94fec8_1280.jpg",
+  "defaultLanguage": "zhTW",
+  "didPageUrl": "https://pixabay.com/get/g01fbdf27349d9e45a0decc323c8fe8819168278de2ee47fac3423731108ac1f764d88e2e5139de2558d36f1d8e2d121f_1280.jpg",
   "avatarBackgrounds": [
     "https://pixabay.com/get/gf15941c3e6add229d3c6765eff40937b24c0285369cf3d281ae93a3bce84acce094f8a9af112d4006eee70b31ec43e53_1280.jpg",
     "https://pixabay.com/get/g261e021a2c87c8bb0fcde29a3e49274325e88cfea27c2fc674c63c1a3933fe27e9feaf69a6149757f26d46d93722e50a_1280.png",
@@ -33,4 +30,3 @@
     "chat": "https://example.com/icons/chat.svg"
   }
 }
-
