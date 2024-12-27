@@ -35,9 +35,9 @@
     },
     "typography": {
       "labelRegular": {
-        "fontSize": 25,
-        "lineHeight": 30,
-        "fontWeight": 500
+        "fontSize": 10,
+        "lineHeight": 20,
+        "fontWeight": 100
       }
     }
   }
