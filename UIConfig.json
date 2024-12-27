@@ -10,7 +10,7 @@
     "https://pixabay.com/get/g261e021a2c87c8bb0fcde29a3e49274325e88cfea27c2fc674c63c1a3933fe27e9feaf69a6149757f26d46d93722e50a_1280.png",
     "https://pixabay.com/get/g2b3a0e784eec1268b580db796540ce7dd363262ae678ae6fff52dc8450566b8f5011049eb3f4041b368ebcc4c95c745d_1280.png"
   ],
-  "premeetingBackground":"url('https://example.com/images/premeeting-bg.png') no-repeat center center / cover",
+  "premeetingBackground":"url('https://pixabay.com/get/g261e021a2c87c8bb0fcde29a3e49274325e88cfea27c2fc674c63c1a3933fe27e9feaf69a6149757f26d46d93722e50a_1280.png') no-repeat center center / cover",
   "virtualBackgrounds":[
     {
       "id": "beach",
