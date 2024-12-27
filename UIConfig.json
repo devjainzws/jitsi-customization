@@ -19,13 +19,13 @@
     },
     {
       "id":"office",
-      "url":"https://example.com/images/virtual-bg-office.png",
-      "thumbnail":"https://example.com/images/virtual-bg-office-thumb.png"
+      "url":"https://pixabay.com/get/gf3c52b8af59e8c22e4e50c33642afeefd0badf19d06a7b6701ba8560540b6b89c149f00acca2680e29688e3c0b1af3f1_1280.png",
+      "thumbnail":"https://pixabay.com/get/gf3c52b8af59e8c22e4e50c33642afeefd0badf19d06a7b6701ba8560540b6b89c149f00acca2680e29688e3c0b1af3f1_1280.png"
     }
   ],
   "customIcons": {
     "microphone":"https://th.bing.com/th/id/OIP.wOKOWnL1Q2m8tqn8lx094gHaIc?rs=1&pid=ImgDetMain",
     "camera":"https://static.vecteezy.com/system/resources/previews/009/463/227/original/camera-icon-isolated-free-vector.jpg",
-    "chat":"https://example.com/icons/chat.svg"
+    "chat":"https://pixabay.com/get/gf3c52b8af59e8c22e4e50c33642afeefd0badf19d06a7b6701ba8560540b6b89c149f00acca2680e29688e3c0b1af3f1_1280.png"
   }
 }
